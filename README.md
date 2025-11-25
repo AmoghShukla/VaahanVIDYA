@@ -31,7 +31,7 @@ This project was developed by **Amogh Shukla** as part of research and practical
 ```
 ├── Car_Price_Prediction.ipynb      ← Main Jupyter notebook  
 ├── README.md                       ← This file  
-├── (datasets / supporting scripts if any)  
+├── car_data.csv                    ← Dataset
 ```
 
 ---
