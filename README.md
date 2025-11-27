@@ -4,7 +4,7 @@
 
 **VaahanVIDYA** is an intelligent vehicle-price-prediction system built using machine learning. It aims to help users estimate accurate resale values for cars (and potentially other vehicles) based on multiple features such as make, model, year, mileage, condition and more.
 
-This project was developed by **Amogh Shukla** as part of research and practical work in the AI_ML & DS domain.
+This project was developed by **Amogh Shukla** as part of research and practical work in the **AI_ML & DS** domain.
 
 ---
 
