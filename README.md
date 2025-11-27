@@ -122,4 +122,4 @@ This project is open-source and distributed under the **MIT License**.
 **Amogh Shukla**
 GitHub: [@AmoghShukla](https://github.com/AmoghShukla)
 
-Thank you for exploring **VaahanVIDYA**! 🚗📈
+Thank you for exploring **VaahanVIDYA** by **Amogh Shukla**! 🚗📈
