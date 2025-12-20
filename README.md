@@ -1,4 +1,4 @@
-# VaahanVIDYA 🚗📊
+# VaahanVIDYA 🚗
 
 ## Project Overview
 
