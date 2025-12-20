@@ -29,9 +29,9 @@ This project was developed by **Amogh Shukla** as part of research and practical
 ## Folder / File Structure
 
 ```
-├── Car_Price_Prediction.ipynb      ← Main Jupyter notebook  
-├── README.md                       ← This file  
-├── car_data.csv                    ← Dataset
+├── Car_Price_Prediction.ipynb      ←  Main Jupyter notebook  
+├── README.md                       ←  This file  
+├── car_data.csv                    ←  Dataset
 ```
 
 ---
